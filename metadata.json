@@ -1,0 +1,9 @@
+{
+  "name": "Copy of SmartAttendX",
+  "description": "A premium, dark-mode educational attendance platform featuring biometric verification, blockchain logging, and gamified rewards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
